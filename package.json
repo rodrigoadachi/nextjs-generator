@@ -7,10 +7,25 @@
     "email": "adachi.rodrigo@gmail.com",
     "url": "https://github.com/rodrigoadachi/nextjs-generator"
   },
-  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rodrigoadachi/nextjs-generator.git"
+  },
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.97.0"
   },
+  "keywords": [
+    "Next",
+    "NextJS",
+    "NextJS Generator",
+    "NextJS Helper",
+    "NextJS Page",
+    "NextJS Params",
+    "NextJS Route",
+    "NextJS Folder Structure",
+    "NextJS Folder"
+  ],
   "categories": [
     "Other"
   ],
